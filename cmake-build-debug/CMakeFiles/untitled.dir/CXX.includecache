@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hxy/CLionProjects/untitled/LeetCode 435.cpp
+iostream
+C:/Users/hxy/CLionProjects/untitled/iostream
+vector
+C:/Users/hxy/CLionProjects/untitled/vector
+algorithm
+C:/Users/hxy/CLionProjects/untitled/algorithm
+
