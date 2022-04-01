@@ -200,6 +200,30 @@ ACW836.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW836.cpp.s
 .PHONY : ACW836.cpp.s
 
+ACW838.obj: ACW838.cpp.obj
+.PHONY : ACW838.obj
+
+# target to build an object file
+ACW838.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW838.cpp.obj
+.PHONY : ACW838.cpp.obj
+
+ACW838.i: ACW838.cpp.i
+.PHONY : ACW838.i
+
+# target to preprocess a source file
+ACW838.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW838.cpp.i
+.PHONY : ACW838.cpp.i
+
+ACW838.s: ACW838.cpp.s
+.PHONY : ACW838.s
+
+# target to generate assembly for a file
+ACW838.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW838.cpp.s
+.PHONY : ACW838.cpp.s
+
 FTCT001.obj: FTCT001.cpp.obj
 .PHONY : FTCT001.obj
 
@@ -410,6 +434,9 @@ help:
 	@echo ... ACW836.obj
 	@echo ... ACW836.i
 	@echo ... ACW836.s
+	@echo ... ACW838.obj
+	@echo ... ACW838.i
+	@echo ... ACW838.s
 	@echo ... FTCT001.obj
 	@echo ... FTCT001.i
 	@echo ... FTCT001.s

@@ -23,12 +23,12 @@
 //            start = i;
 //        }
 //        if (Gold[i] > Gold[i - 1]) {
-//            if (Gold[i] > Gold[i + 1]) {
+//            if (Gold[i] >= Gold[i + 1]) {
 //                sum += Gold[i] - Gold[start];
-//                if(Gold[start]>Gold[finish]){
-//                    sum += Gold[start] - Gold[finish];
-//                }
-//                finish=i;
+////                if(Gold[start]>Gold[finish]){
+////                    sum += Gold[start] - Gold[finish];
+////                }
+////                finish=i;
 //            }
 ////                if(Gold[i]<Gold[i+1]){
 ////                    sum+=Gold[i]-Gold[start];
