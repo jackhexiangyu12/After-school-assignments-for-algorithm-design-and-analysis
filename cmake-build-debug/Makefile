@@ -152,6 +152,126 @@ ACW002.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW002.cpp.s
 .PHONY : ACW002.cpp.s
 
+ACW148.obj: ACW148.cpp.obj
+.PHONY : ACW148.obj
+
+# target to build an object file
+ACW148.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW148.cpp.obj
+.PHONY : ACW148.cpp.obj
+
+ACW148.i: ACW148.cpp.i
+.PHONY : ACW148.i
+
+# target to preprocess a source file
+ACW148.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW148.cpp.i
+.PHONY : ACW148.cpp.i
+
+ACW148.s: ACW148.cpp.s
+.PHONY : ACW148.s
+
+# target to generate assembly for a file
+ACW148.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW148.cpp.s
+.PHONY : ACW148.cpp.s
+
+ACW836.obj: ACW836.cpp.obj
+.PHONY : ACW836.obj
+
+# target to build an object file
+ACW836.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW836.cpp.obj
+.PHONY : ACW836.cpp.obj
+
+ACW836.i: ACW836.cpp.i
+.PHONY : ACW836.i
+
+# target to preprocess a source file
+ACW836.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW836.cpp.i
+.PHONY : ACW836.cpp.i
+
+ACW836.s: ACW836.cpp.s
+.PHONY : ACW836.s
+
+# target to generate assembly for a file
+ACW836.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ACW836.cpp.s
+.PHONY : ACW836.cpp.s
+
+FTCT001.obj: FTCT001.cpp.obj
+.PHONY : FTCT001.obj
+
+# target to build an object file
+FTCT001.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT001.cpp.obj
+.PHONY : FTCT001.cpp.obj
+
+FTCT001.i: FTCT001.cpp.i
+.PHONY : FTCT001.i
+
+# target to preprocess a source file
+FTCT001.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT001.cpp.i
+.PHONY : FTCT001.cpp.i
+
+FTCT001.s: FTCT001.cpp.s
+.PHONY : FTCT001.s
+
+# target to generate assembly for a file
+FTCT001.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT001.cpp.s
+.PHONY : FTCT001.cpp.s
+
+FTCT002(1).obj: FTCT002(1).cpp.obj
+.PHONY : FTCT002(1).obj
+
+# target to build an object file
+FTCT002(1).cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT002(1).cpp.obj
+.PHONY : FTCT002(1).cpp.obj
+
+FTCT002(1).i: FTCT002(1).cpp.i
+.PHONY : FTCT002(1).i
+
+# target to preprocess a source file
+FTCT002(1).cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT002(1).cpp.i
+.PHONY : FTCT002(1).cpp.i
+
+FTCT002(1).s: FTCT002(1).cpp.s
+.PHONY : FTCT002(1).s
+
+# target to generate assembly for a file
+FTCT002(1).cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT002(1).cpp.s
+.PHONY : FTCT002(1).cpp.s
+
+FTCT002.obj: FTCT002.cpp.obj
+.PHONY : FTCT002.obj
+
+# target to build an object file
+FTCT002.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT002.cpp.obj
+.PHONY : FTCT002.cpp.obj
+
+FTCT002.i: FTCT002.cpp.i
+.PHONY : FTCT002.i
+
+# target to preprocess a source file
+FTCT002.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT002.cpp.i
+.PHONY : FTCT002.cpp.i
+
+FTCT002.s: FTCT002.cpp.s
+.PHONY : FTCT002.s
+
+# target to generate assembly for a file
+FTCT002.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/FTCT002.cpp.s
+.PHONY : FTCT002.cpp.s
+
 HDU1003.obj: HDU1003.cpp.obj
 .PHONY : HDU1003.obj
 
@@ -200,6 +320,54 @@ LeetCode_435.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/LeetCode_435.cpp.s
 .PHONY : LeetCode_435.cpp.s
 
+LeetCode_860.obj: LeetCode_860.cpp.obj
+.PHONY : LeetCode_860.obj
+
+# target to build an object file
+LeetCode_860.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/LeetCode_860.cpp.obj
+.PHONY : LeetCode_860.cpp.obj
+
+LeetCode_860.i: LeetCode_860.cpp.i
+.PHONY : LeetCode_860.i
+
+# target to preprocess a source file
+LeetCode_860.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/LeetCode_860.cpp.i
+.PHONY : LeetCode_860.cpp.i
+
+LeetCode_860.s: LeetCode_860.cpp.s
+.PHONY : LeetCode_860.s
+
+# target to generate assembly for a file
+LeetCode_860.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/LeetCode_860.cpp.s
+.PHONY : LeetCode_860.cpp.s
+
+SFDP02.obj: SFDP02.cpp.obj
+.PHONY : SFDP02.obj
+
+# target to build an object file
+SFDP02.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/SFDP02.cpp.obj
+.PHONY : SFDP02.cpp.obj
+
+SFDP02.i: SFDP02.cpp.i
+.PHONY : SFDP02.i
+
+# target to preprocess a source file
+SFDP02.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/SFDP02.cpp.i
+.PHONY : SFDP02.cpp.i
+
+SFDP02.s: SFDP02.cpp.s
+.PHONY : SFDP02.s
+
+# target to generate assembly for a file
+SFDP02.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/SFDP02.cpp.s
+.PHONY : SFDP02.cpp.s
+
 fmk.obj: fmk.cpp.obj
 .PHONY : fmk.obj
 
@@ -236,12 +404,33 @@ help:
 	@echo ... ACW002.obj
 	@echo ... ACW002.i
 	@echo ... ACW002.s
+	@echo ... ACW148.obj
+	@echo ... ACW148.i
+	@echo ... ACW148.s
+	@echo ... ACW836.obj
+	@echo ... ACW836.i
+	@echo ... ACW836.s
+	@echo ... FTCT001.obj
+	@echo ... FTCT001.i
+	@echo ... FTCT001.s
+	@echo ... FTCT002(1).obj
+	@echo ... FTCT002(1).i
+	@echo ... FTCT002(1).s
+	@echo ... FTCT002.obj
+	@echo ... FTCT002.i
+	@echo ... FTCT002.s
 	@echo ... HDU1003.obj
 	@echo ... HDU1003.i
 	@echo ... HDU1003.s
 	@echo ... LeetCode_435.obj
 	@echo ... LeetCode_435.i
 	@echo ... LeetCode_435.s
+	@echo ... LeetCode_860.obj
+	@echo ... LeetCode_860.i
+	@echo ... LeetCode_860.s
+	@echo ... SFDP02.obj
+	@echo ... SFDP02.i
+	@echo ... SFDP02.s
 	@echo ... fmk.obj
 	@echo ... fmk.i
 	@echo ... fmk.s

@@ -117,12 +117,110 @@ CMakeFiles/untitled.dir/LeetCode_435.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/LeetCode_435.cpp.s"
 	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\hxy\CLionProjects\untitled\LeetCode 435.cpp" -o CMakeFiles\untitled.dir\LeetCode_435.cpp.s
 
+CMakeFiles/untitled.dir/LeetCode_860.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/LeetCode_860.cpp.obj: ../LeetCode\ 860.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/LeetCode_860.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\LeetCode_860.cpp.obj -c "C:\Users\hxy\CLionProjects\untitled\LeetCode 860.cpp"
+
+CMakeFiles/untitled.dir/LeetCode_860.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/LeetCode_860.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\hxy\CLionProjects\untitled\LeetCode 860.cpp" > CMakeFiles\untitled.dir\LeetCode_860.cpp.i
+
+CMakeFiles/untitled.dir/LeetCode_860.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/LeetCode_860.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\hxy\CLionProjects\untitled\LeetCode 860.cpp" -o CMakeFiles\untitled.dir\LeetCode_860.cpp.s
+
+CMakeFiles/untitled.dir/ACW148.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/ACW148.cpp.obj: ../ACW148.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/ACW148.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\ACW148.cpp.obj -c C:\Users\hxy\CLionProjects\untitled\ACW148.cpp
+
+CMakeFiles/untitled.dir/ACW148.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/ACW148.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\ACW148.cpp > CMakeFiles\untitled.dir\ACW148.cpp.i
+
+CMakeFiles/untitled.dir/ACW148.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/ACW148.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\ACW148.cpp -o CMakeFiles\untitled.dir\ACW148.cpp.s
+
+CMakeFiles/untitled.dir/ACW836.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/ACW836.cpp.obj: ../ACW836.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled.dir/ACW836.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\ACW836.cpp.obj -c C:\Users\hxy\CLionProjects\untitled\ACW836.cpp
+
+CMakeFiles/untitled.dir/ACW836.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/ACW836.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\ACW836.cpp > CMakeFiles\untitled.dir\ACW836.cpp.i
+
+CMakeFiles/untitled.dir/ACW836.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/ACW836.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\ACW836.cpp -o CMakeFiles\untitled.dir\ACW836.cpp.s
+
+CMakeFiles/untitled.dir/SFDP02.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/SFDP02.cpp.obj: ../SFDP02.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/SFDP02.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\SFDP02.cpp.obj -c C:\Users\hxy\CLionProjects\untitled\SFDP02.cpp
+
+CMakeFiles/untitled.dir/SFDP02.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/SFDP02.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\SFDP02.cpp > CMakeFiles\untitled.dir\SFDP02.cpp.i
+
+CMakeFiles/untitled.dir/SFDP02.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/SFDP02.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\SFDP02.cpp -o CMakeFiles\untitled.dir\SFDP02.cpp.s
+
+CMakeFiles/untitled.dir/FTCT002(1).cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/FTCT002(1).cpp.obj: ../FTCT002(1).cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/FTCT002(1).cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\FTCT002(1).cpp.obj -c C:\Users\hxy\CLionProjects\untitled\FTCT002(1).cpp
+
+CMakeFiles/untitled.dir/FTCT002(1).cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/FTCT002(1).cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\FTCT002(1).cpp > CMakeFiles\untitled.dir\FTCT002(1).cpp.i
+
+CMakeFiles/untitled.dir/FTCT002(1).cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/FTCT002(1).cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\FTCT002(1).cpp -o CMakeFiles\untitled.dir\FTCT002(1).cpp.s
+
+CMakeFiles/untitled.dir/FTCT002.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/FTCT002.cpp.obj: ../FTCT002.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/FTCT002.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\FTCT002.cpp.obj -c C:\Users\hxy\CLionProjects\untitled\FTCT002.cpp
+
+CMakeFiles/untitled.dir/FTCT002.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/FTCT002.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\FTCT002.cpp > CMakeFiles\untitled.dir\FTCT002.cpp.i
+
+CMakeFiles/untitled.dir/FTCT002.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/FTCT002.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\FTCT002.cpp -o CMakeFiles\untitled.dir\FTCT002.cpp.s
+
+CMakeFiles/untitled.dir/FTCT001.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/FTCT001.cpp.obj: ../FTCT001.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/FTCT001.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\FTCT001.cpp.obj -c C:\Users\hxy\CLionProjects\untitled\FTCT001.cpp
+
+CMakeFiles/untitled.dir/FTCT001.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/FTCT001.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\FTCT001.cpp > CMakeFiles\untitled.dir\FTCT001.cpp.i
+
+CMakeFiles/untitled.dir/FTCT001.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/FTCT001.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\FTCT001.cpp -o CMakeFiles\untitled.dir\FTCT001.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/ACW002.cpp.obj" \
 "CMakeFiles/untitled.dir/HDU1003.cpp.obj" \
 "CMakeFiles/untitled.dir/fmk.cpp.obj" \
-"CMakeFiles/untitled.dir/LeetCode_435.cpp.obj"
+"CMakeFiles/untitled.dir/LeetCode_435.cpp.obj" \
+"CMakeFiles/untitled.dir/LeetCode_860.cpp.obj" \
+"CMakeFiles/untitled.dir/ACW148.cpp.obj" \
+"CMakeFiles/untitled.dir/ACW836.cpp.obj" \
+"CMakeFiles/untitled.dir/SFDP02.cpp.obj" \
+"CMakeFiles/untitled.dir/FTCT002(1).cpp.obj" \
+"CMakeFiles/untitled.dir/FTCT002.cpp.obj" \
+"CMakeFiles/untitled.dir/FTCT001.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -131,11 +229,18 @@ untitled.exe: CMakeFiles/untitled.dir/ACW002.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/HDU1003.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/fmk.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/LeetCode_435.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/LeetCode_860.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/ACW148.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/ACW836.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/SFDP02.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/FTCT002(1).cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/FTCT002.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/FTCT001.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
