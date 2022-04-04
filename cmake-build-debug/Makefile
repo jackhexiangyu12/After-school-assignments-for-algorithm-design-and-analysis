@@ -416,6 +416,78 @@ fmk.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/fmk.cpp.s
 .PHONY : fmk.cpp.s
 
+lanqiaobei2015.1.obj: lanqiaobei2015.1.cpp.obj
+.PHONY : lanqiaobei2015.1.obj
+
+# target to build an object file
+lanqiaobei2015.1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.obj
+.PHONY : lanqiaobei2015.1.cpp.obj
+
+lanqiaobei2015.1.i: lanqiaobei2015.1.cpp.i
+.PHONY : lanqiaobei2015.1.i
+
+# target to preprocess a source file
+lanqiaobei2015.1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.i
+.PHONY : lanqiaobei2015.1.cpp.i
+
+lanqiaobei2015.1.s: lanqiaobei2015.1.cpp.s
+.PHONY : lanqiaobei2015.1.s
+
+# target to generate assembly for a file
+lanqiaobei2015.1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.s
+.PHONY : lanqiaobei2015.1.cpp.s
+
+lanqiaobei20201.1.obj: lanqiaobei20201.1.cpp.obj
+.PHONY : lanqiaobei20201.1.obj
+
+# target to build an object file
+lanqiaobei20201.1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj
+.PHONY : lanqiaobei20201.1.cpp.obj
+
+lanqiaobei20201.1.i: lanqiaobei20201.1.cpp.i
+.PHONY : lanqiaobei20201.1.i
+
+# target to preprocess a source file
+lanqiaobei20201.1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.i
+.PHONY : lanqiaobei20201.1.cpp.i
+
+lanqiaobei20201.1.s: lanqiaobei20201.1.cpp.s
+.PHONY : lanqiaobei20201.1.s
+
+# target to generate assembly for a file
+lanqiaobei20201.1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.s
+.PHONY : lanqiaobei20201.1.cpp.s
+
+lanqiaobei20201.3.obj: lanqiaobei20201.3.cpp.obj
+.PHONY : lanqiaobei20201.3.obj
+
+# target to build an object file
+lanqiaobei20201.3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj
+.PHONY : lanqiaobei20201.3.cpp.obj
+
+lanqiaobei20201.3.i: lanqiaobei20201.3.cpp.i
+.PHONY : lanqiaobei20201.3.i
+
+# target to preprocess a source file
+lanqiaobei20201.3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.i
+.PHONY : lanqiaobei20201.3.cpp.i
+
+lanqiaobei20201.3.s: lanqiaobei20201.3.cpp.s
+.PHONY : lanqiaobei20201.3.s
+
+# target to generate assembly for a file
+lanqiaobei20201.3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.s
+.PHONY : lanqiaobei20201.3.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -461,6 +533,15 @@ help:
 	@echo ... fmk.obj
 	@echo ... fmk.i
 	@echo ... fmk.s
+	@echo ... lanqiaobei2015.1.obj
+	@echo ... lanqiaobei2015.1.i
+	@echo ... lanqiaobei2015.1.s
+	@echo ... lanqiaobei20201.1.obj
+	@echo ... lanqiaobei20201.1.i
+	@echo ... lanqiaobei20201.1.s
+	@echo ... lanqiaobei20201.3.obj
+	@echo ... lanqiaobei20201.3.i
+	@echo ... lanqiaobei20201.3.s
 .PHONY : help
 
 

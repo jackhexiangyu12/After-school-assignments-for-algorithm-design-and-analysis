@@ -25,3 +25,9 @@ CMakeFiles/untitled.dir/SFDP02.cpp.obj: \
  ../SFDP02.cpp
 CMakeFiles/untitled.dir/fmk.cpp.obj: \
  ../fmk.cpp
+CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.obj: \
+ ../lanqiaobei2015.1.cpp
+CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj: \
+ ../lanqiaobei20201.1.cpp
+CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj: \
+ ../lanqiaobei20201.3.cpp

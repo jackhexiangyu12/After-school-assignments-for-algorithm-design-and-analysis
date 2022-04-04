@@ -221,6 +221,45 @@ CMakeFiles/untitled.dir/ACW838.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/ACW838.cpp.s"
 	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\ACW838.cpp -o CMakeFiles\untitled.dir\ACW838.cpp.s
 
+CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.obj: ../lanqiaobei2015.1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\lanqiaobei2015.1.cpp.obj -c C:\Users\hxy\CLionProjects\untitled\lanqiaobei2015.1.cpp
+
+CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\lanqiaobei2015.1.cpp > CMakeFiles\untitled.dir\lanqiaobei2015.1.cpp.i
+
+CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\lanqiaobei2015.1.cpp -o CMakeFiles\untitled.dir\lanqiaobei2015.1.cpp.s
+
+CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj: ../lanqiaobei20201.1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\lanqiaobei20201.1.cpp.obj -c C:\Users\hxy\CLionProjects\untitled\lanqiaobei20201.1.cpp
+
+CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\lanqiaobei20201.1.cpp > CMakeFiles\untitled.dir\lanqiaobei20201.1.cpp.i
+
+CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\lanqiaobei20201.1.cpp -o CMakeFiles\untitled.dir\lanqiaobei20201.1.cpp.s
+
+CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj: ../lanqiaobei20201.3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\lanqiaobei20201.3.cpp.obj -c C:\Users\hxy\CLionProjects\untitled\lanqiaobei20201.3.cpp
+
+CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.i"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hxy\CLionProjects\untitled\lanqiaobei20201.3.cpp > CMakeFiles\untitled.dir\lanqiaobei20201.3.cpp.i
+
+CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.s"
+	C:\Users\hxy\Downloads\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hxy\CLionProjects\untitled\lanqiaobei20201.3.cpp -o CMakeFiles\untitled.dir\lanqiaobei20201.3.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/ACW002.cpp.obj" \
@@ -234,7 +273,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/FTCT002(1).cpp.obj" \
 "CMakeFiles/untitled.dir/FTCT002.cpp.obj" \
 "CMakeFiles/untitled.dir/FTCT001.cpp.obj" \
-"CMakeFiles/untitled.dir/ACW838.cpp.obj"
+"CMakeFiles/untitled.dir/ACW838.cpp.obj" \
+"CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.obj" \
+"CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj" \
+"CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -251,11 +293,14 @@ untitled.exe: CMakeFiles/untitled.dir/FTCT002(1).cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/FTCT002.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/FTCT001.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/ACW838.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\hxy\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
