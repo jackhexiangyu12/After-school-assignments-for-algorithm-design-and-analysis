@@ -23,6 +23,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/hxy/CLionProjects/untitled/lanqiaobei2015.1.cpp" "C:/Users/hxy/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/lanqiaobei2015.1.cpp.obj"
   "C:/Users/hxy/CLionProjects/untitled/lanqiaobei20201.1.cpp" "C:/Users/hxy/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj"
   "C:/Users/hxy/CLionProjects/untitled/lanqiaobei20201.3.cpp" "C:/Users/hxy/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj"
+  "C:/Users/hxy/CLionProjects/untitled/lanqiaobei20201.4.cpp" "C:/Users/hxy/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/lanqiaobei20201.4.cpp.obj"
+  "C:/Users/hxy/CLionProjects/untitled/lanqiaobei20201.6.cpp" "C:/Users/hxy/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/lanqiaobei20201.6.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

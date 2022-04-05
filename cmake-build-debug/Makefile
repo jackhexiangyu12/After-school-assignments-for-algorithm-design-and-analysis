@@ -488,6 +488,54 @@ lanqiaobei20201.3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.s
 .PHONY : lanqiaobei20201.3.cpp.s
 
+lanqiaobei20201.4.obj: lanqiaobei20201.4.cpp.obj
+.PHONY : lanqiaobei20201.4.obj
+
+# target to build an object file
+lanqiaobei20201.4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.4.cpp.obj
+.PHONY : lanqiaobei20201.4.cpp.obj
+
+lanqiaobei20201.4.i: lanqiaobei20201.4.cpp.i
+.PHONY : lanqiaobei20201.4.i
+
+# target to preprocess a source file
+lanqiaobei20201.4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.4.cpp.i
+.PHONY : lanqiaobei20201.4.cpp.i
+
+lanqiaobei20201.4.s: lanqiaobei20201.4.cpp.s
+.PHONY : lanqiaobei20201.4.s
+
+# target to generate assembly for a file
+lanqiaobei20201.4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.4.cpp.s
+.PHONY : lanqiaobei20201.4.cpp.s
+
+lanqiaobei20201.6.obj: lanqiaobei20201.6.cpp.obj
+.PHONY : lanqiaobei20201.6.obj
+
+# target to build an object file
+lanqiaobei20201.6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.6.cpp.obj
+.PHONY : lanqiaobei20201.6.cpp.obj
+
+lanqiaobei20201.6.i: lanqiaobei20201.6.cpp.i
+.PHONY : lanqiaobei20201.6.i
+
+# target to preprocess a source file
+lanqiaobei20201.6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.6.cpp.i
+.PHONY : lanqiaobei20201.6.cpp.i
+
+lanqiaobei20201.6.s: lanqiaobei20201.6.cpp.s
+.PHONY : lanqiaobei20201.6.s
+
+# target to generate assembly for a file
+lanqiaobei20201.6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.6.cpp.s
+.PHONY : lanqiaobei20201.6.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -542,6 +590,12 @@ help:
 	@echo ... lanqiaobei20201.3.obj
 	@echo ... lanqiaobei20201.3.i
 	@echo ... lanqiaobei20201.3.s
+	@echo ... lanqiaobei20201.4.obj
+	@echo ... lanqiaobei20201.4.i
+	@echo ... lanqiaobei20201.4.s
+	@echo ... lanqiaobei20201.6.obj
+	@echo ... lanqiaobei20201.6.i
+	@echo ... lanqiaobei20201.6.s
 .PHONY : help
 
 

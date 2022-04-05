@@ -31,3 +31,7 @@ CMakeFiles/untitled.dir/lanqiaobei20201.1.cpp.obj: \
  ../lanqiaobei20201.1.cpp
 CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj: \
  ../lanqiaobei20201.3.cpp
+CMakeFiles/untitled.dir/lanqiaobei20201.4.cpp.obj: \
+ ../lanqiaobei20201.4.cpp
+CMakeFiles/untitled.dir/lanqiaobei20201.6.cpp.obj: \
+ ../lanqiaobei20201.6.cpp
