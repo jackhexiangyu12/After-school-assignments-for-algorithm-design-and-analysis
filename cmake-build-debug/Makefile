@@ -536,6 +536,30 @@ lanqiaobei20201.6.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.6.cpp.s
 .PHONY : lanqiaobei20201.6.cpp.s
 
+lanqiaobei20201.7.obj: lanqiaobei20201.7.cpp.obj
+.PHONY : lanqiaobei20201.7.obj
+
+# target to build an object file
+lanqiaobei20201.7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.7.cpp.obj
+.PHONY : lanqiaobei20201.7.cpp.obj
+
+lanqiaobei20201.7.i: lanqiaobei20201.7.cpp.i
+.PHONY : lanqiaobei20201.7.i
+
+# target to preprocess a source file
+lanqiaobei20201.7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.7.cpp.i
+.PHONY : lanqiaobei20201.7.cpp.i
+
+lanqiaobei20201.7.s: lanqiaobei20201.7.cpp.s
+.PHONY : lanqiaobei20201.7.s
+
+# target to generate assembly for a file
+lanqiaobei20201.7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/lanqiaobei20201.7.cpp.s
+.PHONY : lanqiaobei20201.7.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -596,6 +620,9 @@ help:
 	@echo ... lanqiaobei20201.6.obj
 	@echo ... lanqiaobei20201.6.i
 	@echo ... lanqiaobei20201.6.s
+	@echo ... lanqiaobei20201.7.obj
+	@echo ... lanqiaobei20201.7.i
+	@echo ... lanqiaobei20201.7.s
 .PHONY : help
 
 

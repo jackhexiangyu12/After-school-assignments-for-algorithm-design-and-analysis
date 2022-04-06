@@ -16,6 +16,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/lanqiaobei20201.3.cpp.obj"
   "CMakeFiles/untitled.dir/lanqiaobei20201.4.cpp.obj"
   "CMakeFiles/untitled.dir/lanqiaobei20201.6.cpp.obj"
+  "CMakeFiles/untitled.dir/lanqiaobei20201.7.cpp.obj"
   "libuntitled.dll.a"
   "untitled.exe"
   "untitled.exe.manifest"
