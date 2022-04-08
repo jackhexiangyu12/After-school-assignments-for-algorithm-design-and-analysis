@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ACW002.cpp.dir/objects.a
+C:\Users\hxy\Downloads\MinGW\bin\ar.exe qc CMakeFiles\ACW002.cpp.dir/objects.a @CMakeFiles\ACW002.cpp.dir\objects1.rsp
+C:\Users\hxy\Downloads\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ACW002.cpp.dir/objects.a -Wl,--no-whole-archive -o ACW002.cpp.exe -Wl,--out-implib,libACW002.cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ACW002.cpp.dir\linklibs.rsp

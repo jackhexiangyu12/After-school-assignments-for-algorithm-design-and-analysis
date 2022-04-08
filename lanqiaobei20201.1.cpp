@@ -21,13 +21,12 @@
 //}
 //
 //int main(){
-////    for(int i=1;i<=2020;i++){
-////        for(int j=1;j<=2020;j++){
-////            if(relatively_prime(i,j)==1){
-////                count1++;
-////            }
-////        }
-////    }
-//    cout<<2481215<<endl;
-////    cout<<relatively_prime(11,5)<<endl;
+//    for(int i=0;i<=2020;i++){
+//        for(int j=1;j<=2020;j++){
+//            if(relatively_prime(i,j)==1){
+//                count1++;
+//            }
+//        }
+//    }
+//    cout<<relatively_prime(11,5)<<endl;
 //}
